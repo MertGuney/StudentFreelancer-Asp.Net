@@ -1,0 +1,328 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="UserPages.master.cs" Inherits="StudentFreelancerLogin.UserPages" %>
+
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="tr">
+
+<head runat="server">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- SITE META -->
+    <title>StudentFreelancer</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="keywords" content="">
+
+    <!-- FAVICONS -->
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="images/apple-touch-icon-57x57.png">
+    <asp:ContentPlaceHolder ID="Head" runat="server">
+    </asp:ContentPlaceHolder>
+    <!-- BOOTSTRAP STYLES -->
+    <link rel="stylesheet" type="text/css" href="HTML/css/bootstrap.min.css">
+    <!-- TEMPLATE STYLES -->
+    <link rel="stylesheet" type="text/css" href="HTML/style.css">
+    <!-- RESPONSIVE STYLES -->
+    <link rel="stylesheet" type="text/css" href="HTML/css/responsive.css">
+    <!-- COLORS -->
+    <link rel="stylesheet" type="text/css" href="HTML/css/colors.css">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+    <form id="FormBody" runat="server">
+
+        <!-- PRELOADER -->
+        <div class="cssload-container">
+            <div class="cssload-loader"></div>
+        </div>
+        <!-- end PRELOADER -->
+
+        <!-- START SITE -->
+        <div id="wrapper">
+            <header class="header">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-default yamm">
+                        <div class="container">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" title="" href="HomePage.aspx">
+                                    <img src="HTML/images/logo.png" alt="" class="img-responsive"></a>
+                            </div>
+                            <div id="navbar" class="navbar-collapse collapse">
+                                <ul class="nav navbar-nav">
+                                    <li class="dropdown hasmenu yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Anasayfa <b class="fa fa-angle-down"></b></a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <div class="yamm-content">
+                                                    <div class="row">
+                                                        <div class="col-sm-12">
+                                                            <div class="tabbable row-fluid">
+                                                                <ul class="nav nav-tabs col-md-4">
+                                                                    <li class="active color2"><a href="#b" data-toggle="tab">İş Detayı <i class="fa fa-angle-right"></i></a></li>
+                                                                    <li class="color3"><a href="#c" data-toggle="tab">Hakkımızda <i class="fa fa-angle-right"></i></a></li>
+                                                                </ul>
+                                                                <div class="tab-content col-md-8">
+                                                                    <div class="tab-pane secondcol active" id="b">
+                                                                        <div class="row">
+                                                                            <div class="col-md-6">
+                                                                                <ul>
+                                                                                    <li><a href="SearchJob.aspx">İş Ara</a></li>
+                                                                                    <li><a href="SubmitJob.aspx">İş Ekle</a></li>
+                                                                                </ul>
+                                                                            </div>
+                                                                            <div class="col-md-6">
+                                                                                <ul>
+                                                                                    <li><a href="Employers.aspx">İşveren Profilleri</a></li>
+                                                                                </ul>
+                                                                            </div>
+                                                                        </div>
+
+                                                                        <hr>
+
+                                                                        <div class="row">
+                                                                            <div class="col-md-12">
+                                                                                <p>Eğer iş vermek yada iş bulmak istiyorsan doğru yoldasın.</p>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- end row -->
+                                                                    </div>
+
+                                                                    <div class="tab-pane thirdcol" id="c">
+                                                                        <div class="row">
+                                                                            <div class="col-md-6">
+                                                                                <ul>
+                                                                                    <li><a href="AboutUs.aspx">Hakkımızda</a></li>
+                                                                                </ul>
+                                                                            </div>
+                                                                            <div class="col-md-6">
+                                                                                <ul>
+                                                                                    <li><a href="Support.aspx">Bize Ulaşın</a></li>
+                                                                                    <li><a href="FAQS.aspx">Hızlı Destek</a></li>
+                                                                                </ul>
+                                                                            </div>
+                                                                        </div>
+
+                                                                        <hr>
+
+                                                                        <div class="row">
+                                                                            <div class="col-md-12">
+                                                                                <p>Bizim hakkımızda daha fazla bilgi almak veya yaşadığınız sorunlar için bizimle iletişime geçmek istiyorsanız burası tam bu işlemler için</p>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- end row -->
+                                                                    </div>
+                                                                </div>
+                                                                <!-- end tab-content -->
+                                                            </div>
+                                                            <!-- end tabbable -->
+                                                        </div>
+                                                        <!-- end col -->
+                                                    </div>
+                                                    <!-- end row -->
+                                                </div>
+                                                <!-- end yamm-content -->
+                                            </li>
+                                            <!-- end li -->
+                                        </ul>
+                                        <!-- end dropdown-menu -->
+                                    </li>
+                                    <!-- end hasmenu -->
+                                    <li><a title="" href="SearchJob.aspx">İşler</a></li>
+                                    <li><a title="" href="Freelancers.aspx">Öğrenciler</a></li>
+                                    <%--<li><a title="" href="Blog.aspx">Blog</a></li>--%>
+                                    <li><a title="" href="Support.aspx">Destek</a></li>
+                                </ul>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li class="dropdown yamm-half membermenu hasmenu">
+
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                            <asp:Image ID="Img_resim" class="img-circle" runat="server" />
+                                            <span class="caret"></span></a>
+                                        <ul class="dropdown-menu start-right">
+                                            <li class="dropdown-header">
+                                                <asp:Label ID="LB_isim" runat="server"></asp:Label></li>
+                                            <li><a href="MyProfile.aspx"><span class="glyphicon glyphicon-user"></span>Profil Düzenle</a></li>
+                                            <li><a href="SubmitJob.aspx"><span class="glyphicon glyphicon-off"></span>İş Ekle</a></li>
+                                            <li><a href="ActiveJob.aspx"><span class="glyphicon glyphicon-briefcase"></span>Aktif İşler</a></li>
+                                            <li><a href="PassedJob.aspx"><span class="glyphicon glyphicon-briefcase"></span>Yapılan İşler</a></li>
+                                            <li><a href="Application.aspx"><span class="glyphicon glyphicon-edit"></span>Başvurular</a></li>
+                                            <li><a href="ChangePassword.aspx"><span class="glyphicon glyphicon-refresh"></span>Şifre Değiştir</a></li>
+                                            <li>
+                                                <button runat="server" class="btn btn-primary" id="cikis" onserverclick="cikis_ServerClick"><i class="glyphicon glyphicon-lock"></i>Çıkış Yap</button></li>
+
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <!-- end dropdown -->
+                            </div>
+                            <!--/.nav-collapse -->
+                        </div>
+                        <!--/.container-fluid -->
+                    </nav>
+                    <!-- end nav -->
+                </div>
+                <!-- end container -->
+            </header>
+            <!-- end header -->
+
+            <asp:ContentPlaceHolder ID="Body" runat="server">
+            </asp:ContentPlaceHolder>
+
+
+            <div class="section footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-12">
+                            <div class="widget clearfix">
+                                <div class="widget-title">
+                                    <h4>İletişim</h4>
+                                </div>
+                                <!-- end widget-title -->
+
+                                <div class="link-widget">
+                                    <ul class="check">
+                                        <li><a href="#">Hakkımızda</a></li>
+                                        <li><a href="#">Hızlı Destek</a></li>
+                                        <li><a href="#">Bize Ulaşın</a></li>
+                                    </ul>
+                                    <!-- end check -->
+                                </div>
+                                <!-- end link-widget -->
+                            </div>
+                        </div>
+                        <!-- end col -->
+
+                        <div class="col-md-3 col-sm-12">
+                            <div class="widget clearfix">
+                                <div class="widget-title">
+                                    <h4>Sayfalar</h4>
+                                </div>
+                                <!-- end widget-title -->
+
+                                <div class="link-widget">
+                                    <ul class="check">
+                                        <li><a href="page-about.html">Anasayfa</a></li>
+                                        <li><a href="page-services.html">İş Verenler</a></li>
+                                        <li><a href="shop.html">Öğrenciler</a></li>
+                                        <li><a href="shop-single.html">Blog</a></li>
+                                        <li><a href="shop-single-alt.html">İşler</a></li>
+                                        <li><a href="shop-cart.html">Destek</a></li>
+                                    </ul>
+                                    <!-- end check -->
+                                </div>
+                                <!-- end link-widget -->
+                            </div>
+                        </div>
+                        <!-- end col -->
+
+                        <div class="col-md-3 col-sm-12">
+                            <div class="widget clearfix">
+                                <div class="widget-title">
+                                    <h4>İçerik</h4>
+                                </div>
+                                <!-- end widget-title -->
+
+                                <div class="link-widget">
+                                    <ul class="check">
+                                        <li><a href="#">İş detayları</a></li>
+                                        <li><a href="#">İş veren detayları </a></li>
+                                        <li><a href="#">Öğrenci detayları</a></li>
+                                        <li><a href="#">Öğrenci profil detayları</a></li>
+                                        <li><a href="#">Şirketler</a></li>
+                                    </ul>
+                                    <!-- end check -->
+                                </div>
+                                <!-- end link-widget -->
+                            </div>
+                        </div>
+                        <!-- end col -->
+
+                        <div class="col-md-3 col-sm-12">
+                            <div class="widget clearfix">
+                                <div class="widget-title">
+                                    <img class="flogo" src="HTML/images/flogo.png" alt="">
+                                </div>
+                                <!-- end widget-title -->
+
+                                <div class="text-widget">
+                                    <p>Profesyonel bir ekip ile sizler için studentfreelancer.</p>
+
+                                    <ul class="list-inline social-small">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    </ul>
+
+                                    <div class="mobileicons">
+                                        <a href="#">
+                                            <img src="HTML/images/mobile_01.png" alt=""></a>
+                                        <a href="#">
+                                            <img src="HTML/images/mobile_02.png" alt=""></a>
+                                    </div>
+                                </div>
+                                <!-- end text-widget -->
+                            </div>
+                        </div>
+                        <!-- end col -->
+                    </div>
+                    <!-- end row -->
+                </div>
+                <!-- end container -->
+            </div>
+            <!-- end footer -->
+
+            <div id="sitefooter-wrap" class="stickyfooter">
+                <div id="sitefooter" class="container">
+                    <div id="copyright" class="row">
+                        <div class="col-md-6 col-sm-12 text-left">
+                            <p>StudentFreelancer ® tüm hakları saklıdır <a href="#">2019</a></p>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul class="list-inline text-right">
+                                <li><a href="#">Reklam</a></li>
+                                <li><a href="#">İşbirliği</a></li>
+                                <li><a href="#">Lisans</a></li>
+                                <li><a href="#">Sözleşme</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="contactme hidden-xs">
+                <a href="page-contact.html">
+                    <img src="HTML/upload/me.jpg" class="img-circle" alt="" data-toggle="tooltip" data-placement="top" title="Yardım?">
+                    <span class="oi" data-glyph="chat"></span>
+                </a>
+            </div>
+
+            <div class="dmtop"><i class="fa fa-angle-up"></i></div>
+
+        </div>
+        <!-- end wrapper -->
+
+        <script src="HTML/js/jquery.js"></script>
+        <script src="HTML/js/bootstrap.min.js"></script>
+        <script src="HTML/js/all.js"></script>
+        <script src="HTML/js/custom.js"></script>
+
+        <script src="http://maps.googleapis.com/maps/api/js?sensor=false&amp;libraries=places"></script>
+        <script src="js/map-upload.js"></script>
+    </form>
+</body>
+</html>

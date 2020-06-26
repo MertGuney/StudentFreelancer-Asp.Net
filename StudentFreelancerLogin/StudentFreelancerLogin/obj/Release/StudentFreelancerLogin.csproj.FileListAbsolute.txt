@@ -1,0 +1,114 @@
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\StudentFreelancerLogin.dll.config
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\StudentFreelancerLogin.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\StudentFreelancerLogin.pdb
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csc.exe
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csc.exe.config
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csc.rsp
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csi.exe
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csi.exe.config
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csi.rsp
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.AppContext.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Collections.Immutable.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Console.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.Compression.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.FileSystem.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.Pipes.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Reflection.Metadata.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.AccessControl.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Claims.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.ValueTuple.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Xml.XPath.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\vbc.exe
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\vbc.exe.config
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\vbc.rsp
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\VBCSCompiler.exe
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\VBCSCompiler.exe.config
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\System.Data.SqlClient.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\System.Data.SqlClient.xml
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\obj\Release\StudentFreelancerLogin.csprojAssemblyReference.cache
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\obj\Release\StudentFreelancerLogin.csproj.CopyComplete
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\obj\Release\StudentFreelancerLogin.dll
+F:\Mert\Projelerim\StudentFreelancerLogin\StudentFreelancerLogin\obj\Release\StudentFreelancerLogin.pdb
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\obj\Release\StudentFreelancerLogin.csprojAssemblyReference.cache
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\obj\Release\StudentFreelancerLogin.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\obj\Release\StudentFreelancerLogin.pdb
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\StudentFreelancerLogin.dll.config
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\StudentFreelancerLogin.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\StudentFreelancerLogin.pdb
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csc.exe
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csc.exe.config
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csc.rsp
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csi.exe
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csi.exe.config
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\csi.rsp
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.AppContext.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Collections.Immutable.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Console.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.Compression.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.FileSystem.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.IO.Pipes.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.AccessControl.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Claims.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.ValueTuple.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Xml.XPath.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\vbc.exe
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\vbc.exe.config
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\vbc.rsp
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\VBCSCompiler.exe
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\roslyn\VBCSCompiler.exe.config
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\System.Data.SqlClient.dll
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\System.Data.SqlClient.xml
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mert\Web Siteleri\Projeler\Freelancer\StudentFreelancerLogin\StudentFreelancerLogin\obj\Release\StudentFreelancerLogin.csproj.CopyComplete
